@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "reports/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -169,5 +169,14 @@
     }
   },
   "active": "36a69732dcf9fe80",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "practice/Welcome.md",
+    "practice/create a link.md",
+    "docs/README.md",
+    "docs/Partner_Interaction.md",
+    "Screenshots/Pasted image 20250428193716.png",
+    "Screenshots",
+    "Screenshots/Pasted image 20250428193046.png",
+    "README.md"
+  ]
 }

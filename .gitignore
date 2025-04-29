@@ -1,0 +1,15 @@
+# Файлы с секретами
+src/hidden.py
+
+# Базы данных
+*.db
+*.sqlite
+*.sqlite3
+
+# Питоновские кэши
+src/__pycache__/
+*.py[cod]
+
+# IDE
+.vscode/
+.idea/

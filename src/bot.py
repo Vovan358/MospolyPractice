@@ -9,7 +9,7 @@ from hidden import token
 bot = telebot.TeleBot(token)
 
 # Подключение к базе данных SQLite
-conn = sqlite3.connect('habits.db', check_same_thread=False)
+conn = sqlite3.connect('src/habits.db', check_same_thread=False)
 cursor = conn.cursor()
 
 # Создание таблиц, если они не существуют

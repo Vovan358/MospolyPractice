@@ -300,6 +300,17 @@ HabitTrackerBot/
 
 ---
 
+### Структура базы данных
+
+```
+habits.db              ← база данных трекера привычек
+├── habits              ← данные о привычках (id, user_id, name, category, created_at)
+├── completions         ← даты выполнения привычек (id, habit_id, completion_date)
+└── history             ← журнал действий пользователей (id, user_id, action, details, timestamp)
+```
+
+---
+
 ## 7. Размещение в GitHub
 
 Для того, чтобы разместить проект на GitHub, необходимо зайти в командную строку в файле проекта и прописать:

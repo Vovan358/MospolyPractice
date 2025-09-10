@@ -26,6 +26,6 @@ https://www.freecodecamp.org/news/how-to-create-a-telegram-bot-using-python/
 
 Куратор проектной деятельности: Осьмин Владимир Вячеславович
 
-## Период проведения
+
 
 С 03 февраля 2025 г. по 24 мая 2025 г.
